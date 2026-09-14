@@ -1,0 +1,164 @@
+import pandas as pd
+import spacy
+
+
+def create_rule_based_model():
+    """
+    Create a blank English spaCy model
+    and add rule-based NER patterns using EntityRuler.
+    """
+
+    nlp = spacy.blank("en")
+
+    ruler = nlp.add_pipe("entity_ruler")
+
+    patterns = [
+        {
+            "label": "ORG",
+            "pattern": "European Union"
+        },
+        {
+            "label": "ORG",
+            "pattern": "United Nations"
+        },
+        {
+            "label": "ORG",
+            "pattern": "Microsoft"
+        },
+        {
+            "label": "ORG",
+            "pattern": "Google"
+        },
+        {
+            "label": "ORG",
+            "pattern": "Apple"
+        },
+        {
+            "label": "GPE",
+            "pattern": "United States"
+        },
+        {
+            "label": "GPE",
+            "pattern": "Germany"
+        },
+        {
+            "label": "GPE",
+            "pattern": "France"
+        },
+        {
+            "label": "GPE",
+            "pattern": "London"
+        },
+        {
+            "label": "GPE",
+            "pattern": "Britain"
+        },
+        {
+            "label": "PERSON",
+            "pattern": [
+                {"IS_TITLE": True},
+                {"IS_TITLE": True}
+            ]
+        }
+    ]
+
+    ruler.add_patterns(patterns)
+
+    return nlp
+
+
+def extract_rule_based_entities(text, nlp):
+    """
+    Extract entities using rule-based patterns.
+    """
+
+    doc = nlp(str(text))
+
+    entities = []
+
+    for ent in doc.ents:
+        entities.append(
+            {
+                "entity": ent.text,
+                "label": ent.label_,
+                "start": ent.start_char,
+                "end": ent.end_char
+            }
+        )
+
+    return entities
+
+
+def process_sentences(
+    input_path="outputs/processed_sentences.csv",
+    output_path="outputs/rule_based_entities.csv",
+    limit=500
+):
+    """
+    Run rule-based NER on multiple sentences
+    and save the detected entities.
+    """
+
+    print("Loading processed sentences...")
+
+    df = pd.read_csv(input_path)
+
+    print("Processed sentences loaded successfully.")
+
+    nlp = create_rule_based_model()
+
+    results = []
+
+    print(f"\nProcessing first {limit} sentences using rule-based NER...")
+
+    for _, row in df.head(limit).iterrows():
+
+        sentence_id = row["sentence_id"]
+        text = row["text"]
+
+        entities = extract_rule_based_entities(text, nlp)
+
+        for entity in entities:
+            results.append(
+                {
+                    "sentence_id": sentence_id,
+                    "text": text,
+                    "entity": entity["entity"],
+                    "label": entity["label"],
+                    "start": entity["start"],
+                    "end": entity["end"]
+                }
+            )
+
+    results_df = pd.DataFrame(results)
+
+    results_df.to_csv(output_path, index=False)
+
+    return results_df
+
+
+def main():
+
+    results_df = process_sentences()
+
+    print("\nRule-based NER completed successfully.")
+
+    print("\nTotal detected entities:")
+    print(len(results_df))
+
+    print("\nFirst 20 detected entities:")
+    print(results_df.head(20))
+
+    print("\nEntity label distribution:")
+
+    if not results_df.empty:
+        print(results_df["label"].value_counts())
+    else:
+        print("No entities detected.")
+
+    print("\nResults saved to:")
+    print("outputs/rule_based_entities.csv")
+
+
+if __name__ == "__main__":
+    main()
