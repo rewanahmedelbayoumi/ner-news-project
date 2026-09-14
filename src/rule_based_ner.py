@@ -4,7 +4,7 @@ import spacy
 
 def create_rule_based_model():
     """
-    Create a blank English spaCy model
+    Create a blank English spaCy pipeline
     and add rule-based NER patterns using EntityRuler.
     """
 
@@ -13,46 +13,16 @@ def create_rule_based_model():
     ruler = nlp.add_pipe("entity_ruler")
 
     patterns = [
-        {
-            "label": "ORG",
-            "pattern": "European Union"
-        },
-        {
-            "label": "ORG",
-            "pattern": "United Nations"
-        },
-        {
-            "label": "ORG",
-            "pattern": "Microsoft"
-        },
-        {
-            "label": "ORG",
-            "pattern": "Google"
-        },
-        {
-            "label": "ORG",
-            "pattern": "Apple"
-        },
-        {
-            "label": "GPE",
-            "pattern": "United States"
-        },
-        {
-            "label": "GPE",
-            "pattern": "Germany"
-        },
-        {
-            "label": "GPE",
-            "pattern": "France"
-        },
-        {
-            "label": "GPE",
-            "pattern": "London"
-        },
-        {
-            "label": "GPE",
-            "pattern": "Britain"
-        },
+        {"label": "ORG", "pattern": "European Union"},
+        {"label": "ORG", "pattern": "United Nations"},
+        {"label": "ORG", "pattern": "Microsoft"},
+        {"label": "ORG", "pattern": "Google"},
+        {"label": "ORG", "pattern": "Apple"},
+        {"label": "GPE", "pattern": "United States"},
+        {"label": "GPE", "pattern": "Germany"},
+        {"label": "GPE", "pattern": "France"},
+        {"label": "GPE", "pattern": "London"},
+        {"label": "GPE", "pattern": "Britain"},
         {
             "label": "PERSON",
             "pattern": [
@@ -69,7 +39,7 @@ def create_rule_based_model():
 
 def extract_rule_based_entities(text, nlp):
     """
-    Extract entities using rule-based patterns.
+    Extract entities from text using rule-based patterns.
     """
 
     doc = nlp(str(text))
@@ -96,7 +66,7 @@ def process_sentences(
 ):
     """
     Run rule-based NER on multiple sentences
-    and save the detected entities.
+    and save detected entities to CSV.
     """
 
     print("Loading processed sentences...")
@@ -112,7 +82,6 @@ def process_sentences(
     print(f"\nProcessing first {limit} sentences using rule-based NER...")
 
     for _, row in df.head(limit).iterrows():
-
         sentence_id = row["sentence_id"]
         text = row["text"]
 
@@ -138,7 +107,6 @@ def process_sentences(
 
 
 def main():
-
     results_df = process_sentences()
 
     print("\nRule-based NER completed successfully.")

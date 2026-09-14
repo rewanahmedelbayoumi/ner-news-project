@@ -1,0 +1,406 @@
+sentence_id,text,entity,label,start,end
+3,Peter Blackburn,Peter Blackburn,PERSON,0,15
+5,The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .,The European,PERSON,0,12
+6,Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .,Germany,GPE,0,7
+6,Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .,European Union,PERSON,33,47
+6,Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .,Werner Zwingmann,PERSON,72,88
+6,Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .,Britain,GPE,164,171
+8,He said further scientific study was required and if it was found that action was needed it should be taken by the European Union .,European Union,PERSON,115,129
+9,"He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health .",Farm Commissioner,PERSON,36,53
+9,"He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health .",Franz Fischler,PERSON,54,68
+10,Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .,Britain,GPE,54,61
+10,Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .,France,GPE,66,72
+10,Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .,Bovine Spongiform,PERSON,127,144
+11,"But Fischler agreed to review his proposal after the EU 's standing veterinary committee , mational animal health officials , questioned if such action was justified as there was only a slight risk to human health .",But Fischler,PERSON,0,12
+12,"Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through "" dangerous generalisation . """,Spanish Farm,PERSON,0,12
+12,"Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through "" dangerous generalisation . """,Minister Loyola,PERSON,13,28
+14,Only France and Britain backed Fischler 's proposal .,Only France,PERSON,0,11
+14,Only France and Britain backed Fischler 's proposal .,Britain,GPE,16,23
+18,""" What we have to be extremely careful of is how other countries are going to take Germany 's lead , "" Welsh National Farmers ' Union ( NFU ) chairman John Lloyd Jones said on BBC radio .",Germany,GPE,83,90
+18,""" What we have to be extremely careful of is how other countries are going to take Germany 's lead , "" Welsh National Farmers ' Union ( NFU ) chairman John Lloyd Jones said on BBC radio .",Welsh National,PERSON,103,117
+18,""" What we have to be extremely careful of is how other countries are going to take Germany 's lead , "" Welsh National Farmers ' Union ( NFU ) chairman John Lloyd Jones said on BBC radio .",John Lloyd,PERSON,151,161
+20,"Germany imported 47,600 sheep from Britain last year , nearly half of total imports .",Germany,GPE,0,7
+20,"Germany imported 47,600 sheep from Britain last year , nearly half of total imports .",Britain,GPE,35,42
+23,"Rare Hendrix song draft sells for almost $ 17,000 .",Rare Hendrix,PERSON,0,12
+25,"A rare early handwritten draft of a song by U.S. guitar legend Jimi Hendrix was sold for almost $ 17,000 on Thursday at an auction of some of the late musician 's favourite possessions .",Jimi Hendrix,PERSON,63,75
+26,"A Florida restaurant paid 10,925 pounds ( $ 16,935 ) for the draft of "" Ai n't no telling "" , which Hendrix penned on a piece of London hotel stationery in late 1966 .",A Florida,PERSON,0,9
+26,"A Florida restaurant paid 10,925 pounds ( $ 16,935 ) for the draft of "" Ai n't no telling "" , which Hendrix penned on a piece of London hotel stationery in late 1966 .",London,GPE,129,135
+28,"Buyers also snapped up 16 other items that were put up for auction by Hendrix 's former girlfriend Kathy Etchingham , who lived with him from 1966 to 1969 .",Kathy Etchingham,PERSON,99,115
+34,China on Thursday accused Taipei of spoiling the atmosphere for a resumption of talks across the Taiwan Strait with a visit to Ukraine by Taiwanese Vice President Lien Chan this week that infuriated Beijing .,Taiwan Strait,PERSON,97,110
+34,China on Thursday accused Taipei of spoiling the atmosphere for a resumption of talks across the Taiwan Strait with a visit to Ukraine by Taiwanese Vice President Lien Chan this week that infuriated Beijing .,Taiwanese Vice,PERSON,138,152
+34,China on Thursday accused Taipei of spoiling the atmosphere for a resumption of talks across the Taiwan Strait with a visit to Ukraine by Taiwanese Vice President Lien Chan this week that infuriated Beijing .,President Lien,PERSON,153,167
+35,"Speaking only hours after Chinese state media said the time was right to engage in political talks with Taiwan , Foreign Ministry spokesman Shen Guofang told Reuters : "" The necessary atmosphere for the opening of the talks has been disrupted by the Taiwan authorities . """,Foreign Ministry,PERSON,113,129
+35,"Speaking only hours after Chinese state media said the time was right to engage in political talks with Taiwan , Foreign Ministry spokesman Shen Guofang told Reuters : "" The necessary atmosphere for the opening of the talks has been disrupted by the Taiwan authorities . """,Shen Guofang,PERSON,140,152
+36,"State media quoted China 's top negotiator with Taipei , Tang Shubei , as telling a visiting group from Taiwan on Wednesday that it was time for the rivals to hold political talks .",Tang Shubei,PERSON,57,68
+39,"The foreign ministry 's Shen told Reuters Television in an interview he had read reports of Tang 's comments but gave no details of why the negotiator had considered the time right for talks with Taiwan , which Beijing considers a renegade province .",Reuters Television,PERSON,34,52
+40,"China , which has long opposed all Taipei efforts to gain greater international recognition , was infuriated by a visit to Ukraine this week by Taiwanese Vice President Lien .",Taiwanese Vice,PERSON,144,158
+40,"China , which has long opposed all Taipei efforts to gain greater international recognition , was infuriated by a visit to Ukraine this week by Taiwanese Vice President Lien .",President Lien,PERSON,159,173
+45,"Consultations should be held to set the time and format of the talks , the official Xinhua news agency quoted Tang Shubei , executive vice chairman of the Association for Relations Across the Taiwan Straits , as saying late on Wednesday .",Tang Shubei,PERSON,110,121
+45,"Consultations should be held to set the time and format of the talks , the official Xinhua news agency quoted Tang Shubei , executive vice chairman of the Association for Relations Across the Taiwan Straits , as saying late on Wednesday .",Relations Across,PERSON,171,187
+45,"Consultations should be held to set the time and format of the talks , the official Xinhua news agency quoted Tang Shubei , executive vice chairman of the Association for Relations Across the Taiwan Straits , as saying late on Wednesday .",Taiwan Straits,PERSON,192,206
+47,German July car registrations up 14.2 pct yr / yr .,German July,PERSON,0,11
+56,"Opel AG together with General Motors came in second place with 49,269 registrations , 16.4 percent of the overall figure .",General Motors,PERSON,22,36
+58,Only Seat and Porsche had fewer registrations in July 1996 compared to last year 's July .,Only Seat,PERSON,0,9
+64,"The Greek socialist party 's executive bureau gave the green light to Prime Minister Costas Simitis to call snap elections , its general secretary Costas Skandalidis told reporters .",The Greek,PERSON,0,9
+64,"The Greek socialist party 's executive bureau gave the green light to Prime Minister Costas Simitis to call snap elections , its general secretary Costas Skandalidis told reporters .",Prime Minister,PERSON,70,84
+64,"The Greek socialist party 's executive bureau gave the green light to Prime Minister Costas Simitis to call snap elections , its general secretary Costas Skandalidis told reporters .",Costas Simitis,PERSON,85,99
+64,"The Greek socialist party 's executive bureau gave the green light to Prime Minister Costas Simitis to call snap elections , its general secretary Costas Skandalidis told reporters .",Costas Skandalidis,PERSON,147,165
+65,"Prime Minister Costas Simitis is going to make an official announcement after a cabinet meeting later on Thursday , said Skandalidis .",Prime Minister,PERSON,0,14
+65,"Prime Minister Costas Simitis is going to make an official announcement after a cabinet meeting later on Thursday , said Skandalidis .",Costas Simitis,PERSON,15,29
+66,"-- Dimitris Kontogiannis , Athens Newsroom +301 3311812-4",Dimitris Kontogiannis,PERSON,3,24
+66,"-- Dimitris Kontogiannis , Athens Newsroom +301 3311812-4",Athens Newsroom,PERSON,27,42
+70,The following bond was announced by lead manager Toronto Dominion .,Toronto Dominion,PERSON,49,65
+82,-- London Newsroom +44 171 542 7658,London Newsroom,PERSON,3,18
+86,The following floating-rate issue was announced by lead manager Lehman Brothers International .,Lehman Brothers,PERSON,64,79
+98,-- London Newsroom +44 171 542 8863,London Newsroom,PERSON,3,18
+100,Port conditions update - Syria - Lloyds Shipping .,Lloyds Shipping,PERSON,33,48
+101,Port conditions from Lloyds Shipping Intelligence Service --,Lloyds Shipping,PERSON,21,36
+101,Port conditions from Lloyds Shipping Intelligence Service --,Intelligence Service,PERSON,37,57
+105,Colleen Siegel,Colleen Siegel,PERSON,0,14
+108,"Itamar Rabinovich , who as Israel 's ambassador to Washington conducted unfruitful negotiations with Syria , told Israel Radio it looked like Damascus wanted to talk rather than fight .",Itamar Rabinovich,PERSON,0,17
+108,"Itamar Rabinovich , who as Israel 's ambassador to Washington conducted unfruitful negotiations with Syria , told Israel Radio it looked like Damascus wanted to talk rather than fight .",Israel Radio,PERSON,114,126
+110,"The Syrians are confused , they are definitely tense , but the general assessment here in Washington is that this is essentially a storm in a teacup , "" he said .",The Syrians,PERSON,0,11
+112,"He will be replaced by Eliahu Ben-Elissar , a former Israeli envoy to Egypt and right-wing Likud party politician .",Eliahu Ben,PERSON,23,33
+117,""" The message that we sent to ( Syrian President Hafez al- ) Assad is that Israel is ready at any time without preconditions to enter peace negotiations , "" Israeli Foreign Minister David Levy told Israel Radio in an interview .",Syrian President,PERSON,32,48
+117,""" The message that we sent to ( Syrian President Hafez al- ) Assad is that Israel is ready at any time without preconditions to enter peace negotiations , "" Israeli Foreign Minister David Levy told Israel Radio in an interview .",Israeli Foreign,PERSON,157,172
+117,""" The message that we sent to ( Syrian President Hafez al- ) Assad is that Israel is ready at any time without preconditions to enter peace negotiations , "" Israeli Foreign Minister David Levy told Israel Radio in an interview .",Minister David,PERSON,173,187
+117,""" The message that we sent to ( Syrian President Hafez al- ) Assad is that Israel is ready at any time without preconditions to enter peace negotiations , "" Israeli Foreign Minister David Levy told Israel Radio in an interview .",Israel Radio,PERSON,198,210
+118,Tension has mounted since Israeli Prime Minister Benjamin Netanyahu took office in June vowing to retain the Golan Heights Israel captured from Syria in the 1967 Middle East war .,Israeli Prime,PERSON,26,39
+118,Tension has mounted since Israeli Prime Minister Benjamin Netanyahu took office in June vowing to retain the Golan Heights Israel captured from Syria in the 1967 Middle East war .,Minister Benjamin,PERSON,40,57
+118,Tension has mounted since Israeli Prime Minister Benjamin Netanyahu took office in June vowing to retain the Golan Heights Israel captured from Syria in the 1967 Middle East war .,Golan Heights,PERSON,109,122
+118,Tension has mounted since Israeli Prime Minister Benjamin Netanyahu took office in June vowing to retain the Golan Heights Israel captured from Syria in the 1967 Middle East war .,Middle East,PERSON,162,173
+128,"Israel 's Channel Two television said Damascus had sent a "" calming signal "" to Israel .",Channel Two,PERSON,10,21
+131,"The television also said that Netanyahu had sent messages to reassure Syria via Cairo , the United States and Moscow .",United States,PERSON,92,105
+135,A Polish diplomat on Thursday denied a Polish tabloid report this week that Libya was refusing exit visas to 100 Polish nurses trying to return home after working in the North African country .,A Polish,PERSON,0,8
+135,A Polish diplomat on Thursday denied a Polish tabloid report this week that Libya was refusing exit visas to 100 Polish nurses trying to return home after working in the North African country .,North African,PERSON,170,183
+137,"Up to today , we have no knowledge of any nurse stranded or kept in Libya without her will , and we have not received any complaint , "" the Polish embassy 's charge d'affaires in Tripoli , Tadeusz Awdankiewicz , told Reuters by telephone .",Tadeusz Awdankiewicz,PERSON,189,209
+141,Two Iranian opposition leaders meet in Baghdad .,Two Iranian,PERSON,0,11
+142,Hassan Hafidh,Hassan Hafidh,PERSON,0,13
+144,An Iranian exile group based in Iraq vowed on Thursday to extend support to Iran 's Kurdish rebels after they were attacked by Iranian troops deep inside Iraq last month .,An Iranian,PERSON,0,10
+145,A Mujahideen Khalq statement said its leader Massoud Rajavi met in Baghdad the Secretary-General of the Kurdistan Democratic Party of Iran ( KDPI ) Hassan Rastegar on Wednesday and voiced his support to Iran 's rebel Kurds .,A Mujahideen,PERSON,0,12
+145,A Mujahideen Khalq statement said its leader Massoud Rajavi met in Baghdad the Secretary-General of the Kurdistan Democratic Party of Iran ( KDPI ) Hassan Rastegar on Wednesday and voiced his support to Iran 's rebel Kurds .,Massoud Rajavi,PERSON,45,59
+145,A Mujahideen Khalq statement said its leader Massoud Rajavi met in Baghdad the Secretary-General of the Kurdistan Democratic Party of Iran ( KDPI ) Hassan Rastegar on Wednesday and voiced his support to Iran 's rebel Kurds .,Kurdistan Democratic,PERSON,104,124
+145,A Mujahideen Khalq statement said its leader Massoud Rajavi met in Baghdad the Secretary-General of the Kurdistan Democratic Party of Iran ( KDPI ) Hassan Rastegar on Wednesday and voiced his support to Iran 's rebel Kurds .,Hassan Rastegar,PERSON,148,163
+146,""" Rajavi emphasised that the Iranian Resistance would continue to stand side by side with their Kurdish compatriots and the resistance movement in Iranian Kurdistan , "" it said .",Iranian Resistance,PERSON,29,47
+146,""" Rajavi emphasised that the Iranian Resistance would continue to stand side by side with their Kurdish compatriots and the resistance movement in Iranian Kurdistan , "" it said .",Iranian Kurdistan,PERSON,147,164
+147,"A spokesman for the group said the meeting "" signals a new level of cooperation between Mujahideen Khalq and the Iranian Kurdish oppositions "" .",Mujahideen Khalq,PERSON,88,104
+147,"A spokesman for the group said the meeting "" signals a new level of cooperation between Mujahideen Khalq and the Iranian Kurdish oppositions "" .",Iranian Kurdish,PERSON,113,128
+148,Iran heavily bombarded targets in northern Iraq in July in pursuit of KDPI guerrillas based in Iraqi Kurdish areas outside the control of the government in Baghdad .,Iraqi Kurdish,PERSON,95,108
+149,Iraqi Kurdish areas bordering Iran are under the control of guerrillas of the Iraqi Kurdish Patriotic Union of Kurdistan ( PUK ) group .,Iraqi Kurdish,PERSON,0,13
+149,Iraqi Kurdish areas bordering Iran are under the control of guerrillas of the Iraqi Kurdish Patriotic Union of Kurdistan ( PUK ) group .,Iraqi Kurdish,PERSON,78,91
+149,Iraqi Kurdish areas bordering Iran are under the control of guerrillas of the Iraqi Kurdish Patriotic Union of Kurdistan ( PUK ) group .,Patriotic Union,PERSON,92,107
+150,"PUK and Iraq 's Kurdistan Democratic Party ( KDP ) the two main Iraqi Kurdish factions , have had northern Iraq under their control since Iraqi forces were ousted from Kuwait in the 1991 Gulf War .",Kurdistan Democratic,PERSON,16,36
+150,"PUK and Iraq 's Kurdistan Democratic Party ( KDP ) the two main Iraqi Kurdish factions , have had northern Iraq under their control since Iraqi forces were ousted from Kuwait in the 1991 Gulf War .",Iraqi Kurdish,PERSON,64,77
+150,"PUK and Iraq 's Kurdistan Democratic Party ( KDP ) the two main Iraqi Kurdish factions , have had northern Iraq under their control since Iraqi forces were ousted from Kuwait in the 1991 Gulf War .",Gulf War,PERSON,187,195
+152,Mujahideen Khalq said Iranian troops had also been shelling KDP positions in Qasri region in Suleimaniya province near the Iranian border over the last two days .,Mujahideen Khalq,PERSON,0,16
+153,It said about 100 Iraqi Kurds were killed or wounded in the attack .,Iraqi Kurds,PERSON,18,29
+154,Both Iran and Turkey mount air and land strikes at targets in northern Iraq in pursuit of their own Kurdish rebels .,Both Iran,PERSON,0,9
+155,A U.S.-led air force in southern Turkey protects Iraqi Kurds from possible attacks by Baghdad troops .,Iraqi Kurds,PERSON,49,60
+166,Israel approves Arafat 's flight to West Bank .,West Bank,PERSON,36,45
+168,"Israel gave Palestinian President Yasser Arafat permission on Thursday to fly over its territory to the West Bank , ending a brief Israeli-PLO crisis , an Arafat adviser said .",Palestinian President,PERSON,12,33
+168,"Israel gave Palestinian President Yasser Arafat permission on Thursday to fly over its territory to the West Bank , ending a brief Israeli-PLO crisis , an Arafat adviser said .",Yasser Arafat,PERSON,34,47
+168,"Israel gave Palestinian President Yasser Arafat permission on Thursday to fly over its territory to the West Bank , ending a brief Israeli-PLO crisis , an Arafat adviser said .",West Bank,PERSON,104,113
+170,"The president 's aircraft has received permission to pass through Israeli airspace but the president is not expected to travel to the West Bank before Monday , "" Nabil Abu Rdainah told Reuters .",West Bank,PERSON,134,143
+170,"The president 's aircraft has received permission to pass through Israeli airspace but the president is not expected to travel to the West Bank before Monday , "" Nabil Abu Rdainah told Reuters .",Nabil Abu,PERSON,162,171
+171,Arafat had been scheduled to meet former Israeli prime minister Shimon Peres in the West Bank town of Ramallah on Thursday but the venue was changed to Gaza after Israel denied flight clearance to the Palestinian leader 's helicopters .,Shimon Peres,PERSON,64,76
+171,Arafat had been scheduled to meet former Israeli prime minister Shimon Peres in the West Bank town of Ramallah on Thursday but the venue was changed to Gaza after Israel denied flight clearance to the Palestinian leader 's helicopters .,West Bank,PERSON,84,93
+172,Palestinian officials accused right-wing Prime Minister Benjamin Netanyahu of trying to stop the Ramallah meeting by keeping Arafat grounded .,Prime Minister,PERSON,41,55
+172,Palestinian officials accused right-wing Prime Minister Benjamin Netanyahu of trying to stop the Ramallah meeting by keeping Arafat grounded .,Benjamin Netanyahu,PERSON,56,74
+173,"Arafat subsequently cancelled a meeting between Israeli and PLO officials , on civilian affairs , at the Allenby Bridge crossing between Jordan and the West Bank .",Allenby Bridge,PERSON,105,119
+173,"Arafat subsequently cancelled a meeting between Israeli and PLO officials , on civilian affairs , at the Allenby Bridge crossing between Jordan and the West Bank .",West Bank,PERSON,152,161
+174,"Abu Rdainah said Arafat had decided against flying to the West Bank on Thursday , after Israel lifted the ban , because he had a busy schedule in Gaza and would not be free until Monday .",Abu Rdainah,PERSON,0,11
+174,"Abu Rdainah said Arafat had decided against flying to the West Bank on Thursday , after Israel lifted the ban , because he had a busy schedule in Gaza and would not be free until Monday .",West Bank,PERSON,58,67
+178,Yasser Arafat will meet Shimon Peres in Gaza on Thursday after Palestinians said the right-wing Israeli government had barred the Palestinian leader from flying to the West Bank for talks with the former prime minister .,Yasser Arafat,PERSON,0,13
+178,Yasser Arafat will meet Shimon Peres in Gaza on Thursday after Palestinians said the right-wing Israeli government had barred the Palestinian leader from flying to the West Bank for talks with the former prime minister .,Shimon Peres,PERSON,24,36
+178,Yasser Arafat will meet Shimon Peres in Gaza on Thursday after Palestinians said the right-wing Israeli government had barred the Palestinian leader from flying to the West Bank for talks with the former prime minister .,West Bank,PERSON,168,177
+180,Palestinian officials said the Israeli government had barred Arafat from overflying Israel in a Palestinian helicopter to the West Bank in an attempt to bar the meeting with Peres .,West Bank,PERSON,126,135
+181,"Israeli Prime Minister Benjamin Netanyahu has accused opposition leader Peres , who he defeated in May elections , of trying to undermine his Likud government 's authority to conduct peace talks .",Israeli Prime,PERSON,0,13
+181,"Israeli Prime Minister Benjamin Netanyahu has accused opposition leader Peres , who he defeated in May elections , of trying to undermine his Likud government 's authority to conduct peace talks .",Minister Benjamin,PERSON,14,31
+184,Hilary Gush,Hilary Gush,PERSON,0,11
+186,"Three Afghan guards brought to the United Arab Emirates last week by Russian hostages who escaped from the Taleban militia will return to Afghanistan in a few days , the Afghan embassy in Abu Dhabi said on Thursday .",Three Afghan,PERSON,0,12
+186,"Three Afghan guards brought to the United Arab Emirates last week by Russian hostages who escaped from the Taleban militia will return to Afghanistan in a few days , the Afghan embassy in Abu Dhabi said on Thursday .",United Arab,PERSON,35,46
+186,"Three Afghan guards brought to the United Arab Emirates last week by Russian hostages who escaped from the Taleban militia will return to Afghanistan in a few days , the Afghan embassy in Abu Dhabi said on Thursday .",Abu Dhabi,PERSON,188,197
+191,The three Islamic Taleban guards were overpowered by seven Russian aircrew who escaped to UAE state Sharjah last Friday on board their own aircraft after a year in the captivity of Taleban militia in Kandahar in southern Afghanistan .,Islamic Taleban,PERSON,10,25
+192,"The UAE said on Monday it would hand over the three to the International Red Crescent , possibly last Tuesday .",International Red,PERSON,59,76
+196,"Kabul is controlled by President Burhanuddin Rabbani 's government , which Taleban is fighting to overthrow .",President Burhanuddin,PERSON,23,44
+197,"The embassy official said the three men , believed to be in their 20s , were currently in Abu Dhabi .",Abu Dhabi,PERSON,90,99
+199,"The Russians , working for the Aerostan firm in the Russian republic of Tatarstan , were taken hostage after a Taleban MiG-19 fighter forced their cargo plane to land in August 1995 .",The Russians,PERSON,0,12
+203,"The Russians , who said they overpowered the guards -- two armed with Kalashnikov automatic rifles -- while doing regular maintenance work on their Ilyushin 76 cargo plane last Friday , left the UAE capital Abu Dhabi for home on Sunday .",The Russians,PERSON,0,12
+203,"The Russians , who said they overpowered the guards -- two armed with Kalashnikov automatic rifles -- while doing regular maintenance work on their Ilyushin 76 cargo plane last Friday , left the UAE capital Abu Dhabi for home on Sunday .",Abu Dhabi,PERSON,207,216
+207,"Iraqi President Saddam Hussein has told visiting Russian ultra-nationalist Vladimir Zhirinovsky that Baghdad wanted to maintain "" friendship and cooperation "" with Moscow , official Iraqi newspapers said on Thursday .",Iraqi President,PERSON,0,15
+207,"Iraqi President Saddam Hussein has told visiting Russian ultra-nationalist Vladimir Zhirinovsky that Baghdad wanted to maintain "" friendship and cooperation "" with Moscow , official Iraqi newspapers said on Thursday .",Saddam Hussein,PERSON,16,30
+207,"Iraqi President Saddam Hussein has told visiting Russian ultra-nationalist Vladimir Zhirinovsky that Baghdad wanted to maintain "" friendship and cooperation "" with Moscow , official Iraqi newspapers said on Thursday .",Vladimir Zhirinovsky,PERSON,75,95
+208,""" President Saddam Hussein stressed during the meeting Iraq 's keenness to maintain friendship and cooperation with Russia , "" the papers said .",President Saddam,PERSON,2,18
+209,"They said Zhirinovsky told Saddam before he left Baghdad on Wednesday that his Liberal Democratic party and the Russian Duma ( parliament ) "" are calling for an immediate lifting of the embargo "" imposed on Iraq after its 1990 invasion of Kuwait .",Liberal Democratic,PERSON,79,97
+209,"They said Zhirinovsky told Saddam before he left Baghdad on Wednesday that his Liberal Democratic party and the Russian Duma ( parliament ) "" are calling for an immediate lifting of the embargo "" imposed on Iraq after its 1990 invasion of Kuwait .",Russian Duma,PERSON,112,124
+213,"Last October he was invited to attend the referendum held on Iraq 's presidency , which extended Saddam 's term for seven more years .",Last October,PERSON,0,12
+220,- Iraq 's President Saddam Hussein meets with chairman of the Russian liberal democratic party Vladimir Zhirinovsky .,President Saddam,PERSON,10,26
+220,- Iraq 's President Saddam Hussein meets with chairman of the Russian liberal democratic party Vladimir Zhirinovsky .,Vladimir Zhirinovsky,PERSON,95,115
+223,- A shipload of 12 tonnes of rice arrives in Umm Qasr port in the Gulf .,Umm Qasr,PERSON,45,53
+231,- Prime Minister Hariri : Israeli threats do no serve peace .,Prime Minister,PERSON,2,16
+233,- Parliament Speaker Berri : Israel is preparing for war against Syria and Lebanon .,Parliament Speaker,PERSON,2,20
+237,- Continued criticism of law violation incidents -- which occurred in the Mount Lebanon elections last Sunday .,Mount Lebanon,PERSON,74,87
+242,- Maronite Patriarch Sfeir expressed sorrow over the violations in Sunday ' elections .,Maronite Patriarch,PERSON,2,20
+255,KinderCare Learning Centers Inc said on Thursday that a debt buyback would mean an extraordinary loss of $ 1.2 million in its fiscal 1997 first quarter .,Learning Centers,PERSON,11,27
+258,"Philip Maslowe , chief financial officer of the preschool and child care company , said the buyback "" offered an opportunity to reduce the company 's weighted average interest costs and improve future cash flows and earnings . """,Philip Maslowe,PERSON,0,14
+261,"-- Lehman analyst Blake Bath started Southern New England Telecommunciations Corp with an outperform rating , his office said .",Blake Bath,PERSON,18,28
+261,"-- Lehman analyst Blake Bath started Southern New England Telecommunciations Corp with an outperform rating , his office said .",Southern New,PERSON,37,49
+261,"-- Lehman analyst Blake Bath started Southern New England Telecommunciations Corp with an outperform rating , his office said .",England Telecommunciations,PERSON,50,76
+264,-- Southern New England closed at 38-1/2 Wednesday .,Southern New,PERSON,3,15
+265,"-- E. Auchard , Wall Street bureau , 212-859-1736",E. Auchard,PERSON,3,13
+265,"-- E. Auchard , Wall Street bureau , 212-859-1736",Wall Street,PERSON,16,27
+267,Gateway Data Sciences Q2 net rises .,Gateway Data,PERSON,0,12
+267,Gateway Data Sciences Q2 net rises .,Sciences Q2,PERSON,13,24
+269,Summary of Consolidated Financial Data,Consolidated Financial,PERSON,11,33
+270,"( In Thousands , except per share data )",In Thousands,PERSON,2,14
+271,Six Months Ended Quarter Ended,Six Months,PERSON,0,10
+271,Six Months Ended Quarter Ended,Ended Quarter,PERSON,11,24
+274,Income Statement Data :,Income Statement,PERSON,0,16
+275,"Total Revenue $ 10,756 $ 13,102 $ 7,961 $ 5,507",Total Revenue,PERSON,0,13
+276,"Software Revenue 2,383 1,558 1,086 1,074",Software Revenue,PERSON,0,16
+277,"Services Revenue 1,154 692 624 465",Services Revenue,PERSON,0,16
+278,Operating Income 906 962 599 515,Operating Income,PERSON,0,16
+279,Net Income 821 512 565 301,Net Income,PERSON,0,10
+280,Earnings Per Share 0.31 0.34 0.19 0.20,Earnings Per,PERSON,0,12
+282,Balance Sheet Data :,Balance Sheet,PERSON,0,13
+283,"Working Capital $ 5,755 ( $ 881 )",Working Capital,PERSON,0,15
+284,"Cash and Cash Equivalents 2,386 93",Cash Equivalents,PERSON,9,25
+285,"Total Assets 14,196 7,138",Total Assets,PERSON,0,12
+290,"The Greek socialist party 's executive bureau gave Prime Minister Costas Simitis its backing if he chooses to call snap elections , its general secretary Costas Skandalidis told reporters on Thursday .",The Greek,PERSON,0,9
+290,"The Greek socialist party 's executive bureau gave Prime Minister Costas Simitis its backing if he chooses to call snap elections , its general secretary Costas Skandalidis told reporters on Thursday .",Prime Minister,PERSON,51,65
+290,"The Greek socialist party 's executive bureau gave Prime Minister Costas Simitis its backing if he chooses to call snap elections , its general secretary Costas Skandalidis told reporters on Thursday .",Costas Simitis,PERSON,66,80
+290,"The Greek socialist party 's executive bureau gave Prime Minister Costas Simitis its backing if he chooses to call snap elections , its general secretary Costas Skandalidis told reporters on Thursday .",Costas Skandalidis,PERSON,154,172
+291,"Prime Minister Costas Simitis will make an official announcement after a cabinet meeting later on Thursday , said Skandalidis .",Prime Minister,PERSON,0,14
+291,"Prime Minister Costas Simitis will make an official announcement after a cabinet meeting later on Thursday , said Skandalidis .",Costas Simitis,PERSON,15,29
+292,"-- Dimitris Kontogiannis , Athens Newsroom +301 3311812-4",Dimitris Kontogiannis,PERSON,3,24
+292,"-- Dimitris Kontogiannis , Athens Newsroom +301 3311812-4",Athens Newsroom,PERSON,27,42
+294,PRESS DIGEST - France - Le Monde Aug 22 .,France,GPE,15,21
+294,PRESS DIGEST - France - Le Monde Aug 22 .,Le Monde,PERSON,24,32
+296,"These are leading stories in Thursday 's afternoon daily Le Monde , dated Aug 23 .",Le Monde,PERSON,57,65
+298,"-- Africans seeking to renew or obtain work and residence rights say Prime Minister Alain Juppe 's proposals are insufficient as hunger strike enters 49th day in Paris church and Wednesday rally attracts 8,000 sympathisers .",Prime Minister,PERSON,69,83
+298,"-- Africans seeking to renew or obtain work and residence rights say Prime Minister Alain Juppe 's proposals are insufficient as hunger strike enters 49th day in Paris church and Wednesday rally attracts 8,000 sympathisers .",Alain Juppe,PERSON,84,95
+302,-- Secretary general of the Sud-PTT trade union at France Telecom all the elements are in place for social unrest in the next few weeks .,France Telecom,PERSON,51,65
+303,-- Paris Newsroom +33 1 42 21 53 81,Paris Newsroom,PERSON,3,17
+307,"Three plugged water injection wells on the Heidrun oilfield off mid-Norway will be reopened over the next month , operator Den Norske Stats Oljeselskap AS ( Statoil ) said on Thursday .",Den Norske,PERSON,123,133
+307,"Three plugged water injection wells on the Heidrun oilfield off mid-Norway will be reopened over the next month , operator Den Norske Stats Oljeselskap AS ( Statoil ) said on Thursday .",Stats Oljeselskap,PERSON,134,151
+308,"The plugged wells have accounted for a dip of 30,000 barrels per day ( bpd ) in Heidrun output to roughly 220,000 bpd , according to the company 's Status Weekly newsletter .",Status Weekly,PERSON,148,161
+312,Finnish April trade surplus 3.8 billion markka - NCB .,Finnish April,PERSON,0,13
+314,"Finland 's trade surplus rose to 3.83 billion markka in April from 3.43 billion in March , the National Customs Board ( NCB ) said in a statement on Thursday .",National Customs,PERSON,95,111
+321,"The January-April 1995 import figure was revised from 39,584 million markka and the export figure from 55,627 million markka .",The January,PERSON,0,11
+322,The Bank of Finland earlier estimated the April trade surplus at 3.2 billion markka with exports projected at 14.5 billion and imports at 11.3 billion .,The Bank,PERSON,0,8
+323,The NCB 's official monthly trade statistics are lagging behind due to changes in customs procedures when Finland joined the European Union at the start of 1995 .,European Union,PERSON,125,139
+324,-- Helsinki Newsroom +358 - 0 - 680 50 245,Helsinki Newsroom,PERSON,3,20
+328,The Finance Ministry raised the price for tap sales of the Dutch government 's new 5.75 percent bond due September 2002 to 99.95 from 99.90 .,The Finance,PERSON,0,11
+335,Germany 's Agriculture Ministry suggested on Wednesday that consumers avoid eating meat from British sheep until scientists determine whether mad cow disease can be transmitted to the animals .,Germany,GPE,0,7
+335,Germany 's Agriculture Ministry suggested on Wednesday that consumers avoid eating meat from British sheep until scientists determine whether mad cow disease can be transmitted to the animals .,Agriculture Ministry,PERSON,11,31
+336,""" Until this is cleared up by the European Union 's scientific panels -- and we have asked this to be done as quickly as possible -- ( consumers ) should if at all possible give preference to sheepmeat from other countries , "" ministry official Werner Zwingmann told ZDF television .",European Union,ORG,34,48
+336,""" Until this is cleared up by the European Union 's scientific panels -- and we have asked this to be done as quickly as possible -- ( consumers ) should if at all possible give preference to sheepmeat from other countries , "" ministry official Werner Zwingmann told ZDF television .",Werner Zwingmann,PERSON,245,261
+339,"Bonn has led efforts to ensure consumer protection tops the list of priorities in dealing with the mad cow crisis , which erupted in March when Britain acknowledged humans could contract a similar illness by eating contaminated beef .",Britain,GPE,144,151
+340,The European Commission agreed this month to rethink a proposal to ban the use of suspect sheep tissue after some EU veterinary experts questioned whether it was justified .,The European,PERSON,0,12
+341,"EU Farm Commissioner Franz Fischler had proposed banning sheep brains , spleens and spinal cords from the human and animal food chains after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .",Farm Commissioner,PERSON,3,20
+341,"EU Farm Commissioner Franz Fischler had proposed banning sheep brains , spleens and spinal cords from the human and animal food chains after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .",Franz Fischler,PERSON,21,35
+341,"EU Farm Commissioner Franz Fischler had proposed banning sheep brains , spleens and spinal cords from the human and animal food chains after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .",Britain,GPE,154,161
+341,"EU Farm Commissioner Franz Fischler had proposed banning sheep brains , spleens and spinal cords from the human and animal food chains after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .",France,GPE,166,172
+341,"EU Farm Commissioner Franz Fischler had proposed banning sheep brains , spleens and spinal cords from the human and animal food chains after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .",Bovine Spongiform,PERSON,227,244
+346,"ZDF said Germany imported 47,600 sheep from Britain last year , nearly half of total imports .",Germany,GPE,9,16
+346,"ZDF said Germany imported 47,600 sheep from Britain last year , nearly half of total imports .",Britain,GPE,44,51
+349,EU leaders agreed at a summit in June to a progressive lifting of the ban as Britain takes parallel measures to eradicate the disease .,Britain,GPE,77,84
+354,million NEC World Series of Golf after the first round,World Series,PERSON,12,24
+355,"Thursday at the 7,149 yard , par 70 Firestone C.C course",Firestone C.C,PERSON,36,49
+357,"66 Paul Goydos , Billy Mayfair , Hidemichi Tanaka ( Japan )",Paul Goydos,PERSON,3,14
+357,"66 Paul Goydos , Billy Mayfair , Hidemichi Tanaka ( Japan )",Billy Mayfair,PERSON,17,30
+357,"66 Paul Goydos , Billy Mayfair , Hidemichi Tanaka ( Japan )",Hidemichi Tanaka,PERSON,33,49
+358,68 Steve Stricker,Steve Stricker,PERSON,3,17
+359,"69 Justin Leonard , Mark Brooks",Justin Leonard,PERSON,3,17
+359,"69 Justin Leonard , Mark Brooks",Mark Brooks,PERSON,20,31
+360,"70 Tim Herron , Duffy Waldorf , Davis Love , Anders Forsbrand",Tim Herron,PERSON,3,13
+360,"70 Tim Herron , Duffy Waldorf , Davis Love , Anders Forsbrand",Duffy Waldorf,PERSON,16,29
+360,"70 Tim Herron , Duffy Waldorf , Davis Love , Anders Forsbrand",Davis Love,PERSON,32,42
+360,"70 Tim Herron , Duffy Waldorf , Davis Love , Anders Forsbrand",Anders Forsbrand,PERSON,45,61
+361,"( Sweden ) , Nick Faldo ( Britain ) , John Cook , Steve Jones , Phil",Nick Faldo,PERSON,13,23
+361,"( Sweden ) , Nick Faldo ( Britain ) , John Cook , Steve Jones , Phil",Britain,GPE,26,33
+361,"( Sweden ) , Nick Faldo ( Britain ) , John Cook , Steve Jones , Phil",John Cook,PERSON,38,47
+361,"( Sweden ) , Nick Faldo ( Britain ) , John Cook , Steve Jones , Phil",Steve Jones,PERSON,50,61
+362,"Mickelson , Greg Norman ( Australia )",Greg Norman,PERSON,12,23
+363,"71 Ernie Els ( South Africa ) , Scott Hoch",Ernie Els,PERSON,3,12
+363,"71 Ernie Els ( South Africa ) , Scott Hoch",South Africa,PERSON,15,27
+363,"71 Ernie Els ( South Africa ) , Scott Hoch",Scott Hoch,PERSON,32,42
+364,"72 Clarence Rose , Loren Roberts , Fred Funk , Sven Struver",Clarence Rose,PERSON,3,16
+364,"72 Clarence Rose , Loren Roberts , Fred Funk , Sven Struver",Loren Roberts,PERSON,19,32
+364,"72 Clarence Rose , Loren Roberts , Fred Funk , Sven Struver",Fred Funk,PERSON,35,44
+364,"72 Clarence Rose , Loren Roberts , Fred Funk , Sven Struver",Sven Struver,PERSON,47,59
+365,"( Germany ) , Alexander Cejka ( Germany ) , Hal Sutton , Tom Lehman",Germany,GPE,2,9
+365,"( Germany ) , Alexander Cejka ( Germany ) , Hal Sutton , Tom Lehman",Alexander Cejka,PERSON,14,29
+365,"( Germany ) , Alexander Cejka ( Germany ) , Hal Sutton , Tom Lehman",Germany,GPE,32,39
+365,"( Germany ) , Alexander Cejka ( Germany ) , Hal Sutton , Tom Lehman",Hal Sutton,PERSON,44,54
+365,"( Germany ) , Alexander Cejka ( Germany ) , Hal Sutton , Tom Lehman",Tom Lehman,PERSON,57,67
+366,"73 D.A. Weibring , Brad Bryant , Craig Parry ( Australia ) ,",D.A. Weibring,PERSON,3,16
+366,"73 D.A. Weibring , Brad Bryant , Craig Parry ( Australia ) ,",Brad Bryant,PERSON,19,30
+366,"73 D.A. Weibring , Brad Bryant , Craig Parry ( Australia ) ,",Craig Parry,PERSON,33,44
+367,"Stewart Ginn ( Australia ) , Corey Pavin , Craig Stadler , Mark",Stewart Ginn,PERSON,0,12
+367,"Stewart Ginn ( Australia ) , Corey Pavin , Craig Stadler , Mark",Corey Pavin,PERSON,29,40
+367,"Stewart Ginn ( Australia ) , Corey Pavin , Craig Stadler , Mark",Craig Stadler,PERSON,43,56
+368,"O'Meara , Fred Couples",Fred Couples,PERSON,10,22
+369,"74 Paul Stankowski , Costantino Rocca ( Italy )",Paul Stankowski,PERSON,3,18
+369,"74 Paul Stankowski , Costantino Rocca ( Italy )",Costantino Rocca,PERSON,21,37
+370,"75 Jim Furyk , Satoshi Higashi ( Japan ) , Willie Wood , Shigeki",Jim Furyk,PERSON,3,12
+370,"75 Jim Furyk , Satoshi Higashi ( Japan ) , Willie Wood , Shigeki",Satoshi Higashi,PERSON,15,30
+370,"75 Jim Furyk , Satoshi Higashi ( Japan ) , Willie Wood , Shigeki",Willie Wood,PERSON,43,54
+373,"77 Wayne Westner ( South Africa ) , Steve Schneiter",Wayne Westner,PERSON,3,16
+373,"77 Wayne Westner ( South Africa ) , Steve Schneiter",South Africa,PERSON,19,31
+373,"77 Wayne Westner ( South Africa ) , Steve Schneiter",Steve Schneiter,PERSON,36,51
+374,79 Tom Watson,Tom Watson,PERSON,3,13
+375,81 Seiki Okuda ( Japan ),Seiki Okuda,PERSON,3,14
+379,"Gloria Bistrita ( Romania ) beat 2-1 ( halftime 1-1 ) F.C. Valletta ( Malta ) in their Cup winners Cup match , second leg of the preliminary round , on Thursday .",Gloria Bistrita,PERSON,0,15
+379,"Gloria Bistrita ( Romania ) beat 2-1 ( halftime 1-1 ) F.C. Valletta ( Malta ) in their Cup winners Cup match , second leg of the preliminary round , on Thursday .",F.C. Valletta,PERSON,54,67
+381,"Gloria Bistrita - Ilie Lazar ( 32nd ) , Eugen Voica ( 84th )",Gloria Bistrita,PERSON,0,15
+381,"Gloria Bistrita - Ilie Lazar ( 32nd ) , Eugen Voica ( 84th )",Ilie Lazar,PERSON,18,28
+381,"Gloria Bistrita - Ilie Lazar ( 32nd ) , Eugen Voica ( 84th )",Eugen Voica,PERSON,40,51
+382,F.C. La Valletta - Gilbert Agius ( 24th ),F.C. La,PERSON,0,7
+382,F.C. La Valletta - Gilbert Agius ( 24th ),Gilbert Agius,PERSON,19,32
+384,Gloria Bistrita won 4-2 on aggregate and qualified for the first round of the Cup winners Cup .,Gloria Bistrita,PERSON,0,15
+389,"Sir Mark Prescott landed his first group one victory in 25 years as a trainer when his top sprinter Pivotal , a 100-30 chance , won the Nunthorpe Stakes on Thursday .",Sir Mark,PERSON,0,8
+389,"Sir Mark Prescott landed his first group one victory in 25 years as a trainer when his top sprinter Pivotal , a 100-30 chance , won the Nunthorpe Stakes on Thursday .",Nunthorpe Stakes,PERSON,136,152
+390,"The three-year-old , partnered by veteran George Duffield , snatched a short head verdict in the last stride to deny Eveningperformance ( 16-1 ) , trained by Henry Candy and ridden by Chris Rutter .",George Duffield,PERSON,42,57
+390,"The three-year-old , partnered by veteran George Duffield , snatched a short head verdict in the last stride to deny Eveningperformance ( 16-1 ) , trained by Henry Candy and ridden by Chris Rutter .",Henry Candy,PERSON,158,169
+390,"The three-year-old , partnered by veteran George Duffield , snatched a short head verdict in the last stride to deny Eveningperformance ( 16-1 ) , trained by Henry Candy and ridden by Chris Rutter .",Chris Rutter,PERSON,184,196
+391,"Hever Golf Rose ( 11-4 ) , last year 's Prix de l ' Abbaye winner at Longchamp , finished third , a further one and a quarter lengths away with the 7-4 favourite Mind Games in fourth .",Hever Golf,PERSON,0,10
+391,"Hever Golf Rose ( 11-4 ) , last year 's Prix de l ' Abbaye winner at Longchamp , finished third , a further one and a quarter lengths away with the 7-4 favourite Mind Games in fourth .",Mind Games,PERSON,162,172
+392,"Pivotal , a Royal Ascot winner in June , may now be aimed at this season 's Abbaye , Europe 's top sprint race .",Royal Ascot,PERSON,12,23
+394,"He added : "" It 's very sad to beat Henry Candy because I am godfather to his daughter . """,Henry Candy,PERSON,36,47
+395,"Like Prescott , Jack Berry , trainer of Mind Games , had gone into Thursday 's race in search of a first group one success after many years around the top of his profession .",Like Prescott,PERSON,0,13
+395,"Like Prescott , Jack Berry , trainer of Mind Games , had gone into Thursday 's race in search of a first group one success after many years around the top of his profession .",Jack Berry,PERSON,16,26
+395,"Like Prescott , Jack Berry , trainer of Mind Games , had gone into Thursday 's race in search of a first group one success after many years around the top of his profession .",Mind Games,PERSON,40,50
+397,"He ( Mind Games ) was going as well as any of them one and a half furlongs ( 300 metres ) out but he just did n't quicken . """,Mind Games,PERSON,5,15
+401,"Result of the Nunthorpe Stakes , a group one race for two-year-olds and upwards , run over five furlongs ( 1 km ) on Thursday :",Nunthorpe Stakes,PERSON,14,30
+402,1. Pivotal 100-30 ( ridden by George Duffield ),George Duffield,PERSON,30,45
+403,2. Eveningperformance 16-1 ( Chris Rutter ),Chris Rutter,PERSON,29,41
+404,3. Hever Golf Rose 11-4 ( Jason Weaver ),Hever Golf,PERSON,3,13
+404,3. Hever Golf Rose 11-4 ( Jason Weaver ),Jason Weaver,PERSON,26,38
+406,Favourite : Mind Games ( 7-4 ) finished 4th,Mind Games,PERSON,12,22
+408,Winner owned by the Cheveley Park Stud and trained by Sir,Cheveley Park,PERSON,20,33
+409,Mark Prescott at Newmarket .,Mark Prescott,PERSON,0,13
+415,"$ 450,000 Toshiba Classic tennis tournament on Wednesday",Toshiba Classic,PERSON,10,25
+418,1 - Arantxa Sanchez Vicario ( Spain ) beat Naoko Kijimuta ( Japan ),Arantxa Sanchez,PERSON,4,19
+418,1 - Arantxa Sanchez Vicario ( Spain ) beat Naoko Kijimuta ( Japan ),Naoko Kijimuta,PERSON,43,57
+420,4 - Kimiko Date ( Japan ) beat Yone Kamio ( Japan ) 6-2 7-5,Kimiko Date,PERSON,4,15
+420,4 - Kimiko Date ( Japan ) beat Yone Kamio ( Japan ) 6-2 7-5,Yone Kamio,PERSON,31,41
+421,Sandrine Testud ( France ) beat 7 - Ai Sugiyama ( Japan ) 6-3 4-6,Sandrine Testud,PERSON,0,15
+421,Sandrine Testud ( France ) beat 7 - Ai Sugiyama ( Japan ) 6-3 4-6,France,GPE,18,24
+421,Sandrine Testud ( France ) beat 7 - Ai Sugiyama ( Japan ) 6-3 4-6,Ai Sugiyama,PERSON,36,47
+423,8 - Nathalie Tauziat ( France ) beat Shi-Ting Wang ( Taiwan ) 6-4,Nathalie Tauziat,PERSON,4,20
+423,8 - Nathalie Tauziat ( France ) beat Shi-Ting Wang ( Taiwan ) 6-4,France,GPE,23,29
+423,8 - Nathalie Tauziat ( France ) beat Shi-Ting Wang ( Taiwan ) 6-4,Ting Wang,PERSON,41,50
+427,"COMMACK , New York 1996-08-21",New York,PERSON,10,18
+429,Waldbaum Hamlet Cup tennis tournament on Wednesday ( prefix,Waldbaum Hamlet,PERSON,0,15
+432,1 - Michael Chang ( U.S. ) beat Sergi Bruguera ( Spain ) 6-3 6-2,Michael Chang,PERSON,4,17
+432,1 - Michael Chang ( U.S. ) beat Sergi Bruguera ( Spain ) 6-3 6-2,Sergi Bruguera,PERSON,32,46
+433,Michael Joyce ( U.S. ) beat 3 - Richey Reneberg ( U.S. ) 3-6 6-4,Michael Joyce,PERSON,0,13
+433,Michael Joyce ( U.S. ) beat 3 - Richey Reneberg ( U.S. ) 3-6 6-4,Richey Reneberg,PERSON,32,47
+435,Martin Damm ( Czech Republic ) beat 6 - Younes El Aynaoui,Martin Damm,PERSON,0,11
+435,Martin Damm ( Czech Republic ) beat 6 - Younes El Aynaoui,Czech Republic,PERSON,14,28
+435,Martin Damm ( Czech Republic ) beat 6 - Younes El Aynaoui,Younes El,PERSON,40,49
+437,Karol Kucera ( Slovakia ) beat Hicham Arazi ( Morocco ) 7-6 ( 7-4 ),Karol Kucera,PERSON,0,12
+437,Karol Kucera ( Slovakia ) beat Hicham Arazi ( Morocco ) 7-6 ( 7-4 ),Hicham Arazi,PERSON,31,43
+442,"Kenny Dalglish spoke on Thursday of his sadness at leaving Blackburn , the club he led to the English premier league title in 1994-95 .",Kenny Dalglish,PERSON,0,14
+454,English County Championship cricket matches on Thursday :,English County,PERSON,0,14
+456,"At Weston-super-Mare : Durham 326 ( D. Cox 95 not out ,",At Weston,PERSON,0,9
+456,"At Weston-super-Mare : Durham 326 ( D. Cox 95 not out ,",D. Cox,PERSON,36,42
+457,S. Campbell 69 ; G. Rose 7-73 ) .,S. Campbell,PERSON,0,11
+457,S. Campbell 69 ; G. Rose 7-73 ) .,G. Rose,PERSON,17,24
+458,Somerset 236-4 ( M. Lathwell 85 ) .,M. Lathwell,PERSON,17,28
+460,"At Colchester : Gloucestershire 280 ( J. Russell 63 , A. Symonds",At Colchester,PERSON,0,13
+460,"At Colchester : Gloucestershire 280 ( J. Russell 63 , A. Symonds",J. Russell,PERSON,38,48
+460,"At Colchester : Gloucestershire 280 ( J. Russell 63 , A. Symonds",A. Symonds,PERSON,54,64
+461,52 ; A. Cowan 5-68 ) .,A. Cowan,PERSON,5,13
+463,"At Cardiff : Kent 128-1 ( M. Walker 59 , D. Fulton 53 not out ) v",At Cardiff,PERSON,0,10
+463,"At Cardiff : Kent 128-1 ( M. Walker 59 , D. Fulton 53 not out ) v",M. Walker,PERSON,26,35
+463,"At Cardiff : Kent 128-1 ( M. Walker 59 , D. Fulton 53 not out ) v",D. Fulton,PERSON,41,50
+465,"At Leicester : Leicestershire 343-8 ( P. Simmons 108 , P. Nixon",At Leicester,PERSON,0,12
+465,"At Leicester : Leicestershire 343-8 ( P. Simmons 108 , P. Nixon",P. Simmons,PERSON,38,48
+465,"At Leicester : Leicestershire 343-8 ( P. Simmons 108 , P. Nixon",P. Nixon,PERSON,55,63
+467,"At Northampton : Sussex 368-7 ( N. Lenham 145 , V. Drakes 59 not",At Northampton,PERSON,0,14
+467,"At Northampton : Sussex 368-7 ( N. Lenham 145 , V. Drakes 59 not",N. Lenham,PERSON,32,41
+467,"At Northampton : Sussex 368-7 ( N. Lenham 145 , V. Drakes 59 not",V. Drakes,PERSON,48,57
+468,"out , A. Wells 51 ) v Northamptonshire .",A. Wells,PERSON,6,14
+469,At Trent Bridge : Nottinghamshire 392-6 ( G. Archer 143 not,At Trent,PERSON,0,8
+469,At Trent Bridge : Nottinghamshire 392-6 ( G. Archer 143 not,G. Archer,PERSON,42,51
+470,"out , M. Dowman 107 ) v Surrey .",M. Dowman,PERSON,6,15
+471,"At Worcester : Warwickshire 255-9 ( A. Giles 57 not out , W. Khan",At Worcester,PERSON,0,12
+471,"At Worcester : Warwickshire 255-9 ( A. Giles 57 not out , W. Khan",A. Giles,PERSON,36,44
+471,"At Worcester : Warwickshire 255-9 ( A. Giles 57 not out , W. Khan",W. Khan,PERSON,58,65
+473,"At Headingley : Yorkshire 305-5 ( C. White 66 not out , M. Moxon",At Headingley,PERSON,0,13
+473,"At Headingley : Yorkshire 305-5 ( C. White 66 not out , M. Moxon",C. White,PERSON,34,42
+473,"At Headingley : Yorkshire 305-5 ( C. White 66 not out , M. Moxon",M. Moxon,PERSON,56,64
+474,"66 , M. Vaughan 57 ) v Lancashire .",M. Vaughan,PERSON,5,15
+479,third and final test between England and Pakistan at The Oval on,The Oval,PERSON,53,61
+482,M. Atherton b Waqar Younis 31,M. Atherton,PERSON,0,11
+482,M. Atherton b Waqar Younis 31,Waqar Younis,PERSON,14,26
+483,A. Stewart b Mushtaq Ahmed 44,A. Stewart,PERSON,0,10
+483,A. Stewart b Mushtaq Ahmed 44,Mushtaq Ahmed,PERSON,13,26
+484,N. Hussain c Saeed Anwar b Waqar Younis 12,N. Hussain,PERSON,0,10
+484,N. Hussain c Saeed Anwar b Waqar Younis 12,Saeed Anwar,PERSON,13,24
+484,N. Hussain c Saeed Anwar b Waqar Younis 12,Waqar Younis,PERSON,27,39
+485,G. Thorpe lbw b Mohammad Akram 54,G. Thorpe,PERSON,0,9
+485,G. Thorpe lbw b Mohammad Akram 54,Mohammad Akram,PERSON,16,30
+486,J. Crawley not out 94,J. Crawley,PERSON,0,10
+487,N. Knight b Mushtaq Ahmed 17,N. Knight,PERSON,0,9
+487,N. Knight b Mushtaq Ahmed 17,Mushtaq Ahmed,PERSON,12,25
+488,C. Lewis b Wasim Akram 5,C. Lewis,PERSON,0,8
+488,C. Lewis b Wasim Akram 5,Wasim Akram,PERSON,11,22
+489,I. Salisbury not out 1,I. Salisbury,PERSON,0,12
+493,"To bat : R. Croft , D. Cork , A. Mullally",R. Croft,PERSON,9,17
+493,"To bat : R. Croft , D. Cork , A. Mullally",D. Cork,PERSON,20,27
+493,"To bat : R. Croft , D. Cork , A. Mullally",A. Mullally,PERSON,30,41
+494,"Bowling ( to date ) : Wasim Akram 25-8-61-1 , Waqar Younis",Wasim Akram,PERSON,22,33
+494,"Bowling ( to date ) : Wasim Akram 25-8-61-1 , Waqar Younis",Waqar Younis,PERSON,46,58
+495,"20-6-70-2 , Mohammad Akram 12-1-41-1 , Mushtaq Ahmed 27-5-78-2 ,",Mohammad Akram,PERSON,12,26
+495,"20-6-70-2 , Mohammad Akram 12-1-41-1 , Mushtaq Ahmed 27-5-78-2 ,",Mushtaq Ahmed,PERSON,39,52
+496,Aamir Sohail 6-1-17-0,Aamir Sohail,PERSON,0,12
+497,"Pakistan : Aamir Sohail , Saeed Anwar , Ijaz Ahmed ,",Aamir Sohail,PERSON,11,23
+497,"Pakistan : Aamir Sohail , Saeed Anwar , Ijaz Ahmed ,",Saeed Anwar,PERSON,26,37
+497,"Pakistan : Aamir Sohail , Saeed Anwar , Ijaz Ahmed ,",Ijaz Ahmed,PERSON,40,50
+498,"Inzamam-ul-Haq , Salim Malik , Asif Mujtaba , Wasim Akram , Moin",Salim Malik,PERSON,17,28
+498,"Inzamam-ul-Haq , Salim Malik , Asif Mujtaba , Wasim Akram , Moin",Asif Mujtaba,PERSON,31,43
+498,"Inzamam-ul-Haq , Salim Malik , Asif Mujtaba , Wasim Akram , Moin",Wasim Akram,PERSON,46,57
+499,"Khan , Mushtaq Ahmed , Waqar Younis , Mohammad Akam",Mushtaq Ahmed,PERSON,7,20
+499,"Khan , Mushtaq Ahmed , Waqar Younis , Mohammad Akam",Waqar Younis,PERSON,23,35
+499,"Khan , Mushtaq Ahmed , Waqar Younis , Mohammad Akam",Mohammad Akam,PERSON,38,51
+503,"Everton 's Duncan Ferguson , who scored twice against Manchester United on Wednesday , was picked on Thursday for the Scottish squad after a 20-month exile .",Duncan Ferguson,PERSON,11,26
+503,"Everton 's Duncan Ferguson , who scored twice against Manchester United on Wednesday , was picked on Thursday for the Scottish squad after a 20-month exile .",Manchester United,PERSON,54,71
+504,"Glasgow Rangers striker Ally McCoist , another man in form after two hat-tricks in four days , was also named for the August 31 World Cup qualifier against Austria in Vienna .",Glasgow Rangers,PERSON,0,15
+504,"Glasgow Rangers striker Ally McCoist , another man in form after two hat-tricks in four days , was also named for the August 31 World Cup qualifier against Austria in Vienna .",World Cup,PERSON,128,137
+506,"Scotland manager Craig Brown said on Thursday : "" I 've watched Duncan Ferguson in action twice recently and he 's bang in form .",Craig Brown,PERSON,17,28
+506,"Scotland manager Craig Brown said on Thursday : "" I 've watched Duncan Ferguson in action twice recently and he 's bang in form .",Duncan Ferguson,PERSON,64,79
+512,England were 100 for two at lunch on the first day of the third and final test against Pakistan at The Oval on Thursday .,The Oval,PERSON,99,107
+516,Ireland midfielder Roy Keane has signed a new four-year contract with English league and F.A. Cup champions Manchester United .,Roy Keane,PERSON,19,28
+516,Ireland midfielder Roy Keane has signed a new four-year contract with English league and F.A. Cup champions Manchester United .,F.A. Cup,PERSON,89,97
+516,Ireland midfielder Roy Keane has signed a new four-year contract with English league and F.A. Cup champions Manchester United .,Manchester United,PERSON,108,125
+517,""" Roy agreed a new deal before last night 's game against Everton and we are delighted , "" said United manager Alex Ferguson on Thursday .",Alex Ferguson,PERSON,111,124
+521,Results from the Canadian Open,Canadian Open,PERSON,17,30
+525,Daniel Nestor ( Canada ) beat 1 - Thomas Muster ( Austria ) 6-3 7-5,Daniel Nestor,PERSON,0,13
+525,Daniel Nestor ( Canada ) beat 1 - Thomas Muster ( Austria ) 6-3 7-5,Thomas Muster,PERSON,34,47
+526,Mikael Tillstrom ( Sweden ) beat 2 - Goran Ivanisevic ( Croatia ),Mikael Tillstrom,PERSON,0,16
+526,Mikael Tillstrom ( Sweden ) beat 2 - Goran Ivanisevic ( Croatia ),Goran Ivanisevic,PERSON,37,53
+528,3 - Wayne Ferreira ( South Africa ) beat Jiri Novak ( Czech,Wayne Ferreira,PERSON,4,18
+528,3 - Wayne Ferreira ( South Africa ) beat Jiri Novak ( Czech,South Africa,PERSON,21,33
+528,3 - Wayne Ferreira ( South Africa ) beat Jiri Novak ( Czech,Jiri Novak,PERSON,41,51
+530,4 - Marcelo Rios ( Chile ) beat Kenneth Carlsen ( Denmark ) 6-3 6-2,Marcelo Rios,PERSON,4,16
+530,4 - Marcelo Rios ( Chile ) beat Kenneth Carlsen ( Denmark ) 6-3 6-2,Kenneth Carlsen,PERSON,32,47
+531,6 - MaliVai Washington ( U.S. ) beat Alex Corretja ( Spain ) 6-4,Alex Corretja,PERSON,37,50
+533,7 - Todd Martin ( U.S. ) beat Renzo Furlan ( Italy ) 7-6 ( 7-3 ) 6-3,Todd Martin,PERSON,4,15
+533,7 - Todd Martin ( U.S. ) beat Renzo Furlan ( Italy ) 7-6 ( 7-3 ) 6-3,Renzo Furlan,PERSON,30,42
+534,Mark Philippoussis ( Australia ) beat 8 - Marc Rosset,Mark Philippoussis,PERSON,0,18
+534,Mark Philippoussis ( Australia ) beat 8 - Marc Rosset,Marc Rosset,PERSON,42,53
+536,9 - Cedric Pioline ( France ) beat Gregory Carraz ( France ) 7-6,Cedric Pioline,PERSON,4,18
+536,9 - Cedric Pioline ( France ) beat Gregory Carraz ( France ) 7-6,France,GPE,21,27
+536,9 - Cedric Pioline ( France ) beat Gregory Carraz ( France ) 7-6,Gregory Carraz,PERSON,35,49
+536,9 - Cedric Pioline ( France ) beat Gregory Carraz ( France ) 7-6,France,GPE,52,58
+538,Patrick Rafter ( Australia ) beat 11 - Alberto Berasategui,Patrick Rafter,PERSON,0,14
+538,Patrick Rafter ( Australia ) beat 11 - Alberto Berasategui,Alberto Berasategui,PERSON,39,58
+540,Petr Korda ( Czech Republic ) beat 12 - Francisco Clavet ( Spain ),Petr Korda,PERSON,0,10
+540,Petr Korda ( Czech Republic ) beat 12 - Francisco Clavet ( Spain ),Czech Republic,PERSON,13,27
+540,Petr Korda ( Czech Republic ) beat 12 - Francisco Clavet ( Spain ),Francisco Clavet,PERSON,40,56
+542,Daniel Vacek ( Czech Republic ) beat 13 - Jason Stoltenberg,Daniel Vacek,PERSON,0,12
+542,Daniel Vacek ( Czech Republic ) beat 13 - Jason Stoltenberg,Czech Republic,PERSON,15,29
+542,Daniel Vacek ( Czech Republic ) beat 13 - Jason Stoltenberg,Jason Stoltenberg,PERSON,42,59
